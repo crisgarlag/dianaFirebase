@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "274490019178",
+    "project_id": "prueba-366fb",
+    "storage_bucket": "prueba-366fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274490019178:android:d34506da0da680db7ea913",
+        "android_client_info": {
+          "package_name": "com.example.diana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274490019178-qvd15ggrrmn57cl62tij6rvbb5ssa95t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_lyZit8Oo-AuW4wtA8niQI7swsJHymAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274490019178-qvd15ggrrmn57cl62tij6rvbb5ssa95t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
